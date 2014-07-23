@@ -1,0 +1,4 @@
+SVGCompress
+===========
+
+Compress svg graphics
