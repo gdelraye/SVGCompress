@@ -1,4 +1,0 @@
-SVGCompress
-===========
-
-Compress svg graphics
